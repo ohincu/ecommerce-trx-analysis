@@ -1,0 +1,9 @@
+Variable Name,Type,Description
+InvoiceNo,Categorical,"a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation"
+StockCode,Categorical,a 5-digit integral number uniquely assigned to each distinct product
+Description,Categorical,product name
+Quantity,Integer,the quantities of each product (item) per transaction
+InvoiceDate,Datetime,the day and time when each transaction was generated
+UnitPrice,Continuous,product price per unit
+CustomerID,Categorical,a 5-digit integral number uniquely assigned to each customer
+Country,Categorical,the name of the country where each customer resides
