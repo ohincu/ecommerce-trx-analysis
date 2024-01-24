@@ -11,11 +11,13 @@ The insights can help the company:
 This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
 ## Limitations
-**1. Limited time-frame**  
-The data is only available for one year, which does not allow a cleaer understading of overall business development and seasonal effects.
-**2. Missing data**
+**1. Limited time-frame** 
+The data is only available for one year, which does not allow a clear understading of overall business development and seasonal effects.
+
+**2. Missing data**  
 There are missing customer IDs, about 25%, and order descriptions.
-**3. Unclear stock code convention**
+
+**3. Unclear stock code convention**  
 Stock codes are not standardized, sometimes they are in digits, sometimes in letters. 
 
 ## Requirements
