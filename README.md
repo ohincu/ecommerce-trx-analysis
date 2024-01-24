@@ -18,7 +18,13 @@ There are missing customer IDs, about 25%, and order descriptions.
 **3. Unclear stock code convention**
 Stock codes are not standardized, sometimes they are in digits, sometimes in letters. 
 
-### Key Insights
+## Requirements
+* Data manipulation - pandas, numpy
+* Data visualization - plotly
+
+If you want to view the notebook with the plotly plots, please use [nbviewer](https://nbviewer.org/) and paste the link of [analysis.html](analysis.html).
+
+## Key Insights
 ![](plots/Revenue_by_country.png)
 
 ![](plots/Revenue_by_StockCode.png)
